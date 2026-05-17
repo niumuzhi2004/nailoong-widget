@@ -1,0 +1,44 @@
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Arduino
+build/
+*.bin
+*.hex
+*.elf
+*.eep
+*.map
+*.dmp
+*.tmp
+*.bak
+*.log
+*.full
+temp/
+
+# PlatformIO and other embedded toolchains
+.pio/
+.pioenvs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project settings
+*.user
+*.userprefs
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj*
+*.ncb
+*.log
+
+# Backup and swap files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
