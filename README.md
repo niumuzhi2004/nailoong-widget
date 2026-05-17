@@ -1,4 +1,4 @@
-# Nailoong Widget for Waveshare ESP32-S3-Touch-LCD-1.46
+# Nailoong Interactive Widget
 
 An interactive Nailoong (奶龙) widget for the Waveshare ESP32-S3-Touch-LCD-1.46 board.
 
